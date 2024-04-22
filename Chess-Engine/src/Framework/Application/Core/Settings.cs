@@ -12,7 +12,7 @@ namespace ChessEngine.Application
         public const float MinMoveDelay = 0;
         public static readonly bool RunBotsOnSeparateThread = true;
 
-        public const bool UCI_Mode = true;
+        public const bool UCI_Mode = false;
         public const bool useTranspositionTable = true;
 
         // Display settings
